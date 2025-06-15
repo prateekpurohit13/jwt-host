@@ -4,7 +4,7 @@
       "kty": "RSA",
       "use": "sig",
       "kid": "pentesterlab",
-      "n": "1C5k66wg0n7ZNmErmc6N7TlAwQYVadqIJAJ6FC-qF1dn4tH03_uZI8tk0XqQPnXYoctB_59oWkFWb2huZRU_HmSL83N6SXkEcF9Bz1M5lowoFucmg9NZNnAeQ38MTluMm1muGtiGG0-5bcGyGRhOQ_OJMu45VnBKXlvtFjRK0sN1ogSd_AG8-sG8ykv4YbBiebtPl0bHMR7wlivJzbn-fRfBaF-ZL22Igl94QtrBYPTIY2Z9HnIT55AAIEwqf6jkl8zooQSYWAPN1HxhcvScSFWVycfqzItBD6EHaScw7gjRG2C7lk7sat0LUfizVK674zT5tgI4SDmMhUQNE04U6w",
+      "n": "oTtAXRgdJ6Pu0jr3hK3opCF5uqKWKbm4KkqIiDJSEsQ4PnAz14P_aJnfnsQwgchFGN95cfCO7euC8HjT-u5WHHDn08GQ7ot6Gq6j-fbwMdRWjLC74XqQ0JNDHRJoM4bbj4i8FaBdYKvKmnJ8eSeEjA0YrG8KuTOPbLsglADUubNw9kggRIvj6au88dnBJ9HeZ27QVVFaIllZpMITtocuPkOKd8bHzkZzKN4HJtM0hgzOjeyCfqZxh1V8LybliWDXYivUqmvrzchzwXTAQPJBBfYo9BO6D4Neui8rGbc49OBCnHLCWtPH7m7xp3cz-PbVnLhRczzsQE_3escvTF0FGw",
       "e": "AQAB",
       "alg": "RS256"
     }
